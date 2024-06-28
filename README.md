@@ -267,3 +267,4 @@ export const updateChatState = (prevMessages: Message[], newMessages: Message[],
 ### API Routes (`/api/*.ts`)
 These files define various API routes for handling tasks like creating assistants, listing messages, checking run status, etc. They interact with the OpenAI API and provide endpoints for the frontend to call.
 
+# assistants-kit
